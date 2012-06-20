@@ -1,0 +1,13 @@
+[core]
+	pager = nkf -w
+	filemode = true
+	encoding = utf-8
+[user]
+	name = MORIYAMA Hiroshi
+	email = hiroshi@kvd.biglobe.ne.jp
+[color]
+	ui = auto
+[log]
+	date = iso
+[gui]
+	encoding = utf-8
