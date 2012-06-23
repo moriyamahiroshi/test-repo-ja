@@ -1,4 +1,4 @@
-= README.eucjp -*- coding: euc-jp -*- vim: enc=euc-jp
+= README.eucjp -*- coding: euc-jis-2004 -*-
 
 == About
 
@@ -25,3 +25,16 @@ GitとGitHubの練習用リポジトリ。慣れない操作の練習の他、GitHubの日本語の扱
 められた公式な書式は存在しない――と思はれる――が、ファイル名の擴張子に
 含めたり、特定のエディタが解釋する書式を使つたりなどすることが、一般に行
 はれてゐるやうだ。
+
+== Issue #1 "Issues"のテスト
+
+GitHubの各リポジトリに備へ附けられてゐるIssuesシステムを使つてみる。
+Markdown記法が使へるやうだ。
+
+  * "Issue #1: "Issues"のテスト �� moriyamahiroshi/test-repo-ja"
+    <https://github.com/moriyamahiroshi/test-repo-ja/issues/1>
+
+またこのリンク先のタイトルにあるやうに、GitHubのIssueは "Issue #<番號>"
+と表すのが通常のやうだ。もしかするとGitHub上でコミットメッセージを表示す
+るところなどで "#<番號>" が自動的にハイパーリンクになつたりはしてくれない
+だらうか。そのへんの確認も兼ねて、このREADMEを更新してコミット。
